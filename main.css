@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    background: #151A25;
+}
+header{
+    background: #151A25;
+    display: flex;
+    justify-content: space-around;
+}
+.slogan{
+    display: flex;
+    align-items: center;
+    width: 55.098px;
+height: 60px;
+}
+.slogan h1{
+    margin-right: 4px;
+    color: #FFF;
+font-family: "Satoshi";
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.slogan h2{
+color: #FFF;
+font-family: "Satoshi";
+font-size: 24px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.Home ul{
+display: flex;
+list-style-type: none;
+margin-right: 24px;
+color: #FFF;
+font-family: Satoshi;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+align-items: center;
+}
+ul li{
+    margin-right: 24px;
+}
+.Home{
+    display: flex;
+    align-items: center;
+}
+.login{
+    display: flex;
+padding: 10px 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 5px;
+background: #D6377F;
+}
+.login a{
+    color: #FFF;
+font-family: Satoshi;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.16px;
+}
+.otstup{
+padding: 40px;
+}
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+font-family: Satoshi;
+font-size: 85px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -2.55px;
+color:#5EFCE8;
+background-clip: text;
+}
+.padding{
+    padding: 8px;
+}
+.podzag h1{
+    display: flex;
+    color: #A6A6A6;
+    justify-content: center;
+    font-family: Satoshi;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.podzag h2{
+    display: flex;
+    color: #A6A6A6;
+    justify-content: center;
+    font-family: Satoshi;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.padding2{
+    padding: 24px;
+}
+.podzag2 h1{
+    color: #FFF;
+text-align: center;
+font-family: Satoshi;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.podzag2 h2{
+    display:flex;
+    justify-content: center;
+    color: #FFF;
+font-family: Satoshi;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.padding3{
+    padding: 32.5px;
+}
+.cartina{
+    display: flex;
+    justify-content: center;
+}
+.ikonka{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
